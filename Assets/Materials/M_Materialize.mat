@@ -68,8 +68,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AddRimNoise: 1
-    - _AddSceneColor: 0
+    - _AddRimNoise: 0
+    - _AddSceneColor: 1
     - _Alpha: 1
     - _Float: 0.1
     - _PanSpeed: 0.001
@@ -77,8 +77,9 @@ Material:
     - _QueueOffset: -3
     - _RevealPercent: 1
     - _RimPower: 2.61
-    - _RimStr: 0.309
-    - _UnrevealedSize: 0.21
+    - _RimStr: 0.829
+    - _TwirlStr: 0
+    - _UnrevealedSize: 0.16
     - _WobbleSpeed: 0.1
     m_Colors:
     - _BaseTint: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 0}
