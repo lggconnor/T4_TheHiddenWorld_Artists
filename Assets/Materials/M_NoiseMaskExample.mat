@@ -35,19 +35,23 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DebugView: 0
+    - _DebugView: 1
     - _EdgeNoiseScale: 451.6
     - _Fresnel_Power: 2.66
     - _LerpControl: 0
     - _MaskUsesVertNormalOrObjectPos: 0
     - _NoiseScale: 314.54
-    - _Offset: 0.53
+    - _Offset: 0.2
     - _PanSpeed: 0.01
     - _PanSpeed2: -0.01
     - _QueueControl: 1
     - _QueueOffset: 0
+    - _Reveal: 1
+    - _Vertpos_Offset_Scalar: 0.36
+    - _normal_vector_multiply_tester: 0.1
     m_Colors:
-    - _Color: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 1, g: 0.1273585, b: 0.1273585, a: 1}
+    - _ColorB: {r: 0.6981132, g: 0.6981132, b: 0.6981132, a: 0}
     - _RimColor: {r: 12.988235, g: 5.647059, b: 0.4392157, a: 0}
     - _RimColorA: {r: 7.491833, g: 5.453239, b: 0, a: 0}
     - _RimColorB: {r: 0.8947122, g: 2.6841364, b: 3.1314926, a: 0}

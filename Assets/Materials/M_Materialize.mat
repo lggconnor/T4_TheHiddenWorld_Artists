@@ -75,9 +75,9 @@ Material:
     - _PanSpeed: 0.001
     - _QueueControl: 1
     - _QueueOffset: -3
-    - _RevealPercent: 1
+    - _RevealPercent: 0
     - _RimPower: 2.61
-    - _RimStr: 0.829
+    - _RimStr: 1
     - _TwirlStr: 0
     - _UnrevealedSize: 0.16
     - _WobbleSpeed: 0.1
