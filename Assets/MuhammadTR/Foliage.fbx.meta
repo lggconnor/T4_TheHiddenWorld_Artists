@@ -3,7 +3,97 @@ guid: 71659aee489312e41be0f68c028e0fe7
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clover_shrubs
+    second: {fileID: 2100000, guid: 09bf45c5370a0a8408b08546587960df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clover_shrubs2
+    second: {fileID: 2100000, guid: 488f5d56ac812654abee0737d3980308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clovers
+    second: {fileID: 2100000, guid: b46055aabb54fc446a272c8776e85a56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower
+    second: {fileID: 2100000, guid: b91dc6e6da9a1454ea374a878296bb9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower2
+    second: {fileID: 2100000, guid: 0f68ffad9f058394088953a1c6b5ef60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower_purple
+    second: {fileID: 2100000, guid: 1666b6f061f452140b5c9baf27c292ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: eaa103cc82794e548aec7ba1d5c364d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass.001
+    second: {fileID: 2100000, guid: eff4b766b5e00e9449558f1e6634be3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Petal 1
+    second: {fileID: 2100000, guid: 2dac18d3d1f9e6c4eb07e52723d86e42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower pollen
+    second: {fileID: 2100000, guid: 6223f3656a5303d429ecdff27ea56120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower pollen_white
+    second: {fileID: 2100000, guid: 7fb8c4678e35c7e469efffba5d2f66b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower pollen_yellow
+    second: {fileID: 2100000, guid: 28796135d68f76143b904bbb27a896f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower_purple
+    second: {fileID: 2100000, guid: 7ff0b122d32ffc1468ef2439b475de00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower_yellow
+    second: {fileID: 2100000, guid: a795793a266481d46a219ed7b7f02b45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 6212eae52f043614ca15fea533d08d4c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Clover
+    second: {fileID: 2800000, guid: 4e8d59b20acfefe43bd3961c27dd7893, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shrubs01
+    second: {fileID: 2800000, guid: a64897d7d974b6643a64cd4ed31e50f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shrubs02
+    second: {fileID: 2800000, guid: a29e5140367c4fd43b5b53722a083ed4, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
